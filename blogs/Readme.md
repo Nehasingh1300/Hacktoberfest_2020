@@ -29,7 +29,7 @@
 | GitLab | |
 | Dependabot | |
 | Circle CI | |
-| Jenkins | |
+| [Jenkins](https://github.com/Nehasingh1300/Hacktoberfest_2020/blob/main/blogs/Installation-of-Jenkins-and-Simple-job.md) | [Neha Singh](https://github.com/Nehasingh1300) |
 | Docker | |
 | Kubernetes | |
 
